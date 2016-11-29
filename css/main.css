@@ -1952,7 +1952,7 @@ header .header-logo a {
 	height: 100%;
 	background: #EBEBEB;
 	width: 50%;
-	background-image: url(../images/profile-bg.jpg);
+	background-image: url(../images/abstract-bg.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size: cover;
@@ -1992,7 +1992,7 @@ header .header-logo a {
 }
 
 .about-profile p.lead {
-	color: #636363;
+	color: #252525;
 }
 
 .about-profile .about-profile-bg {
@@ -2005,7 +2005,7 @@ header .header-logo a {
 }
 
 .about-services p.lead {
-	color: #757575;
+	color: #252525;
 }
 
 .about-services ul.services {
