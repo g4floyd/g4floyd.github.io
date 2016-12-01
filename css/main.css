@@ -2764,7 +2764,7 @@ header .header-logo a {
  * ------------------------------------------------------------------- */
 #contact {
 	background-color: #111111;
-	background-image: url(../images/profile-bg.jpg);
+	background-image: url(../images/intro-bg.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size: cover;
@@ -2781,7 +2781,7 @@ header .header-logo a {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	opacity: .7;
+	opacity: .85;
 	background-color: #000000;
 }
 
