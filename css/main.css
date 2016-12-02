@@ -2824,6 +2824,13 @@ header .header-logo a {
 	color: rgba(255, 255, 255, 0.7) !important;
 }
 
+.contact-info a {
+	/*font-family: "librebaskerville-regular", serif;*/
+	text-transform: none;
+	letter-spacing: 0;
+	color: #FFFFFF;;
+}
+
 #contact form {
 	margin-top: 0;
 	margin-bottom: 3rem;
