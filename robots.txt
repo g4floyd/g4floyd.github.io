@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: ./icon-cheatsheet.html
+Disallow: ./styles.html
+Disallow: ./contact-form.html
